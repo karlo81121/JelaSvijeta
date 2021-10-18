@@ -1,7 +1,6 @@
-Priloženu web aplikaciju sam radio pomoću HTML, CSS i PHP tehnologija. Koristio sam XAMPP
-cross platformu za prikaz web aplikacije na lokalnom serveru. Web aplikacija omogućuje dodavanje 
-željenog jela pritiskom na "Dodaj jelo". Kako bi unijeli jelo potrebno je popuniti obrazac na 
-stranici Dodaj jelo. Isto tako, potrebno je pratiti napomenu prilikom unošenja jela. 
+Web aplikacija omogućuje dodavanje željenog jela pritiskom na "Dodaj jelo". 
+Kako bi unijeli jelo potrebno je popuniti obrazac na stranici Dodaj jelo. 
+Isto tako, potrebno je pratiti napomenu prilikom unošenja jela. 
 Nakon što smo unijeli podatke u obrazac, oni se pohranjuju unutar baze podataka kako bi ih mogli 
 objaviti na endpoint aplikacije. Za kreiranje baze podataka koristio sam sustav phpmyadmin. 
 Kreirao sam ID kao primarni ključ te ostale atribute koji su bili potrebni, a oni su: 
@@ -14,4 +13,4 @@ tagovima koji su uneseni u bazu podataka. Ukoliko ne unesemo pojam u tražilicu 
 informaciju kako je prije traženja jela potrebno unjeti tag ili pojam. Također, prilikom pretraživanja 
 jela, možemo odabrati koliko jela želimo prikazati na početnoj stranici upisom broja kod "Prikaz po stranici". 
 Imena svih varijabli, klasa i ostalog su na engleskom jeziku. Komunikacija s bazom podataka odvojena je u zasebnu datoteku. 
-Dodana je SQL dump tablica ili SQL file koji sadrži SQL naredbe za kreiranje baze podataka korištene u ovom zadatku.
+Dodana je SQL dump tablica ili SQL file koji sadrži SQL naredbe za uspostavu aplikacije na drugom računalu.
